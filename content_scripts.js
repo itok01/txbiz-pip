@@ -67,6 +67,8 @@ const main = () => {
     const pipButton = createPipButton();
 
     fullscreenButton.after(pipButton);
+
+    getVideoPlayer().classList.add('has-pip-button');
 };
 
 let jsInitChecktimer;

@@ -1,6 +1,6 @@
 {
   "name": "Picture in Picture for テレ東BIZ",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "テレ東BIZ で Picture-in-Picture をできるようにする拡張機能です。",
   "icons": {
     "16": "icon16.png",
